@@ -1,2 +1,2 @@
 # my_quiz
-Check Here - https://github.com/aswathysiva/my_quiz
+Check Here - https://aswathysiva.github.io/my_quiz/
